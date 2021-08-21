@@ -1,11 +1,10 @@
 
+## Stay on Track with this fitness App
+This fitness app allows users to stay on top of their workouts. It uses a logger to log in the workout. It takes in the new exercise and displays it on a dashboard allowing the user to see their progress.
+
 ## Description
 
-The fitness app uses MVC parameters for a fitness workout logger that takes in new exercises and uses MongoDB with Mongoose to log them to the database which can then be analyzed in the app's dashboard.
-Completion of this app included the buidling out of the exercise model for the Mongo DB formatting to ensure the correct logging of the various fields in the application. As there are two different types of workouts avaialble, resistance and cardio, the requried fields for each of them will be the
-same while there are a few fields that are only specific to the type of workout being logged.
-
-
+Created a fitness tracking app utilizing Node.js, Express.js, MongoDB, Heroku and Mongoose. Majority of the front end code was provided in a homework prompt as part of a web development boot camp.
 
 ## Installation
 

@@ -69,3 +69,4 @@ function renderWorkoutSummary(summary) {
 }
 
 init();
+
