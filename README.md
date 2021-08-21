@@ -1,4 +1,8 @@
 
+![demo1](https://user-images.githubusercontent.com/44445250/130331052-a78aa398-130e-4bed-99cf-254a4a9e1f56.PNG)
+![demo2](https://user-images.githubusercontent.com/44445250/130331055-c485dfe3-8ea6-4734-8759-85343737dc64.PNG)
+
+
 ## Stay on Track with this fitness App
 This fitness app allows users to stay on top of their workouts. It uses a logger to log in the workout. It takes in the new exercise and displays it on a dashboard allowing the user to see their progress.
 
